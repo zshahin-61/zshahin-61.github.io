@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
 - skill: Communications strategy
-- skill: Programming Languages: Swift, Kotlin, Java, React, ReactNative
-- skill: Web and Frameworks: ASP.net, VB.net, HTML, CSS, JavaScript, jQuery
-- skill: Applications: IntelliJ, Visual Studio Code, Xcode
-- skill: Operating Systems: Windows, Mac, Linux
-- skill: Mobile Technologies: Android and iOS
-- skill: Technical Skill: Full-Stack Developer - iOS and Android Application
-- skill: Version Control: Git
+- description: Programming Languages: Swift, Kotlin, Java, React, ReactNative
+- description: Web and Frameworks: ASP.net, VB.net, HTML, CSS, JavaScript, jQuery
+- description: Applications: IntelliJ, Visual Studio Code, Xcode
+- description: Operating Systems: Windows, Mac, Linux
+- description: Mobile Technologies: Android and iOS
+- description: Technical Skill: Full-Stack Developer - iOS and Android Application
+- description: Version Control: Git
 
 
