@@ -7,11 +7,22 @@
 # - description: Technical Skill: Full-Stack Developer - iOS and Android Application
 # - description: Version Control: Git
 
-- skill: Programming Languages
-  description: Swift, Kotlin, Java, React, ReactNative
+# skill: Programming Languages
+#  description: Swift, Kotlin, Java, React, ReactNative
 
-- skill: Web and Frameworks
-description: ASP.net, VB.net, HTML, CSS, JavaScript, jQuery
+# skill: Web and Frameworks
+#description: ASP.net, VB.net, HTML, CSS, JavaScript, jQuery
 
-- skill: Web and Frameworks
-description: ASP.net, VB.net, HTML, CSS, JavaScript, jQuery
+# skill: Web and Frameworks
+#description: ASP.net, VB.net, HTML, CSS, JavaScript, jQuery
+
+#- skill: Organizational leadership
+#  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+
+# Communications strategy
+- skill: Communications strategy
+  description: Content and marketing strategy,
+
+# Digital content development and creation
+- skill: Digital content development and creation
+  description: Copy writing, graphic design, web design, front-end web development, print design
