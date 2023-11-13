@@ -1,26 +1,26 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- title: "Academic Projects"
+- project: "Academic Projects"
   organization: "George Brown College"
   location: "Toronto, ON"
   projects:
-- title: "Rental Car Application"
+- project: "Rental Car Application"
   description: |
     Developed a mobile application using React, React Native, and Firebase as the database. The application enables owners to register and sign in with the Android or iOS platform, allowing them to insert their cars for rent. Features include attaching images, map-based selection, price searching, and owner response management.
 
-- title: "Travel Agency"
+- project: "Travel Agency"
   date: "May 2023"
   description: Implemented an iOS application with Swift and Object-Oriented Programming. The application allows users to reserve flights or trains, choose between sleeper or seating carriages, and displays pricing information. Users can enter their destination, update personal information, and manage their bookings.
 
-- title: "Video Game Store"
+- project: "Video Game Store"
   date: "May 2023"
   description: Developed a Swift-based iOS application with Object-Oriented Programming. Users can interact with the application to add or remove items for purchase from the video game store. Additionally, users can add funds to their account for transactions.
 
-- title: "National Park Search on the Map"
+- project: "National Park Search on the Map"
   date: "April 2023"
   description: Utilized Kotlin and Shared Preferences with Firebase as the database for an Android application. The project enables users to view National Parks on a Google Map. Users can select parks, add them to a list for future visits, or remove them. The development process included design, development, troubleshooting, debugging, testing, and performance optimization.
 
-- title: "Online Learning Courses"
+- project: "Online Learning Courses"
   date: "April 2023"
   description: Developed an Android application using Kotlin and Shared Preferences with MongoDB as the database. Users can create accounts, access lessons, view related YouTube videos, add notes, and mark lessons as completed. The application provides users with an overview of their learning activity.
